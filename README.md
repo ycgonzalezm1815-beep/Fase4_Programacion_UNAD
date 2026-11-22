@@ -1,2 +1,22 @@
-<img width="2536" height="2268" alt="image" src="https://github.com/user-attachments/assets/e5e8b415-f95f-4f84-9596-f27cbe8dcb24" />
+Sistema Integral de Gestión de Clientes, Servicios y Reservas
+Proyecto desarrollado para la Fase 4 del curso Programación (213023) de la Universidad Nacional Abierta y a Distancia - UNAD.
+
+Características
+Programación Orientada a Objetos.
+Abstracción.
+Herencia.
+Encapsulación.
+Polimorfismo.
+Manejo avanzado de excepciones.
+Registro de logs.
+Gestión de clientes.
+Gestión de servicios.
+Gestión de reservas.
+Simulación de operaciones válidas e inválidas.
+Servicios implementados
+Reserva de salas
+Alquiler de equipos
+Asesorías especializadas
+Ejecución
+python main.py
 
